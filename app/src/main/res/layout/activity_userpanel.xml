@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/ecommerce_mobile_cellphone_smartphone_shopping_ss_1920"
+    tools:context=".Userpanel">
+
+
+    <TextView
+        android:id="@+id/txtVuser"
+        android:layout_width="349dp"
+        android:layout_height="605dp"
+        android:layout_marginTop="72dp"
+        android:background="#3CFFFFFF"
+        android:textColor="#090909"
+        android:textSize="30sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView5"
+        android:layout_width="172dp"
+        android:layout_height="164dp"
+        android:background="#0DEFE9E9"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.188"
+        app:srcCompat="@drawable/addemp1" />
+
+    <Button
+        android:id="@+id/btnAddUser"
+        android:layout_width="153dp"
+        android:layout_height="70dp"
+        android:textColor="#020202"
+        android:textSize="18sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.503"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.422" />
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="184dp"
+        android:layout_height="153dp"
+        android:background="@drawable/search2"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.471"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.605" />
+
+
+    <SearchView
+        android:id="@+id/SearchUser"
+        android:layout_width="306dp"
+        android:layout_height="56dp"
+        android:background="#FFFFFF"
+        android:clickable="true"
+        android:iconifiedByDefault="false"
+        android:outlineProvider="paddedBounds"
+        android:queryHint="Search Here"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.495"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.749"
+        tools:ignore="MissingConstraints" />
+
+    <Button
+        android:id="@+id/btnSearch"
+        android:layout_width="122dp"
+        android:layout_height="64dp"
+        android:textColor="#070707"
+        android:textSize="18sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.449"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.892" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

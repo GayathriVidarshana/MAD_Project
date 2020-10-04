@@ -1,0 +1,151 @@
+<resources>
+    <string name="app_name">MAD Project</string>
+    <string name="txtview">DASH BOARD</string>
+    <string name="ButtonItem">ITEM</string>
+    <string name="ButtonUser">USER</string>
+
+
+    <string name="txtviewItem">ITEM</string>
+    <string name="btnAddItem">ADD ITEM</string>
+    <string name="SearchItem">Enter Item Code Here (IS40087)</string>
+    <string name="ButtonSearch">Search</string>
+
+    <string name="AddItem">ADD ITEM</string>
+    <string name="ImgButtonAdd">Add Image</string>
+    <string name="Itemcode">Item Code</string>
+    <string name="Inputcode">eg:IS40087</string>
+    <string name="ItemName">Brand Name</string>
+    <string name="InputName">eg:Iphone</string>
+    <string name="ItemModel">Item Model</string>
+    <string name="InputModel">eg:iphone6s</string>
+    <string name="ItemDiscount">Discount</string>
+    <string name="InputDiscount">Input Item Discount here</string>
+    <string name="ItemPrice">Price</string>
+    <string name="InputPrice">Input item price here(Rs 19000.00)</string>
+    <string name="ItemDiscription">Description</string>
+    <string name="InputDescription">Enter description here</string>
+    <string name="ItemStock">Stock</string>
+    <string name="InputStock">eg:100</string>
+    <string name="SaveNewItem">Save</string>
+
+
+    <string name="DesplayItem">ITEM DETAILS</string>
+    <string name="DesplayCode">Item Code</string>
+    <string name="DataCode">    </string>
+    <string name="DesplayName">Item Name</string>
+    <string name="DataName">    </string>
+    <string name="DesplayBrand">Item Brand</string>
+    <string name="DataBrand">    </string>
+    <string name="DesplayDiscount">Item Discount</string>
+    <string name="DataDiscount">    </string>
+    <string name="DesplayPrice">Item Price</string>
+    <string name="DataPrice">     </string>
+    <string name="DesplayStock">Stock</string>
+    <string name="DataStock">    </string>
+    <string name="Desplaydiscription"> Discription</string>
+    <string name="dataDiscription">    </string>
+    <string name="buttonDelete">Delete</string>
+    <string name="buttonUpdate">Update</string>
+
+
+    <string name="TxtUpdate">Update Item Details</string>
+    <string name="DIcode">Item Code</string>
+    <string name="DDCode">   </string>
+    <string name="DIName">Item Name</string>
+    <string name="DDName"> </string>
+    <string name="DIBrand">Brand</string>
+    <string name="DDBrand">  </string>
+    <string name="DIDiscription">Description</string>
+    <string name="DDDiscription">   </string>
+    <string name="UpDiscount">Discount</string>
+    <string name="UpdDiscount">  </string>
+    <string name="upPrice">Price</string>
+    <string name="updPrice"></string>
+    <string name="upStock">Stock</string>
+    <string name="updstock"></string>
+    <string name="ButtonUpdate">Update</string>
+
+
+    <string name="TxtVUsre">USER</string>
+    <string name="SearchUsre">Enter User name here</string>
+    <string name="AddUser">Add User</string>
+    <string name="btnSearch">Search</string>
+
+
+    <string name="txtVAddUser">Add New User</string>
+    <string name="UserName">User Name</string>
+    <string name="EnterUserName">Eg:Sudesh</string>
+    <string name="userPhone">Phone </string>
+    <string name="InputPhone">Eg:0716545678</string>
+    <string name="UserEmail">Email</string>
+    <string name="InputEmail">Eg:sudhesh139@gmail.com</string>
+    <string name="UserPassword">Password</string>
+    <string name="inputPswrd">Eg: 123S139G</string>
+    <string name="saveUser">Save</string>
+
+
+    <string name="UserDetails">User Details</string>
+    <string name="UName">Name</string>
+    <string name="UserDsplynmae"></string>
+    <string name="Uphone">Phone</string>
+    <string name="Udsplyphone"></string>
+    <string name="Uemail">Email</string>
+    <string name="UsrdsplyEmail"></string>
+    <string name="Upswrd">Password</string>
+    <string name="usrdsplyPswrd"></string>
+    <string name="btnuserDelete">Delete</string>
+    <string name="btnuserUpdate">Update</string>
+
+
+    <string name="UPUserDetails">Update User</string>
+    <string name="upUName">Name</string>
+    <string name="upUserDsplynmae"></string>
+    <string name="upUphone">Phone</string>
+    <string name="upUdsplyphone"></string>
+    <string name="upUemail">Email</string>
+    <string name="upUsrdsplyEmail"></string>
+    <string name="upUpswrd">Password</string>
+    <string name="upusrdsplyPswrd"></string>
+    <string name="upsave">Save</string>
+
+    <string name="deliverTopic">Deliver</string>
+
+    <string name="d1Gampaha">Gampaha</string>
+    <string name="d2Colombo">Colombo</string>
+    <string name="d3Kalutara">Kalutara</string>
+    <string name="d4Kandy">Kandy</string>
+    <string name="d5Kegalle">Kegalle</string>
+    <string name="d6Ratnapura">Ratnapura</string>
+    <string name="d7Hambantota">Hambantota</string>
+    <string name="d8Matara">Matara</string>
+    <string name="d9Galle">Galle</string>
+
+
+    <string name="ADD1">Change</string>
+    <string name="ADD2">Change</string>
+    <string name="ADD3">Change</string>
+    <string name="ADD4">Change</string>
+    <string name="ADD5">Change</string>
+    <string name="ADD6">Change</string>
+    <string name="ADD7">Change</string>
+    <string name="ADD8">Change</string>
+    <string name="ADD9">Change</string>
+    <string name="Btnsave">Save</string>
+
+    <string name="DriverName">Name</string>
+    <string name="DriverPhone">Phone</string>
+    <string name="DriverLicenseNo">License No</string>
+    <string name="DriverNIC">NIC</string>
+    <string name="DVehicalType">Vehical Type</string>
+    <string name="DVehicalNum">Vehical No</string>
+    <string name="AddDriverBtn">SAVE</string>
+
+    <string name="inputName"></string>
+    <string name="inputPhone"></string>
+    <string name="inputLNo"> </string>
+    <string name="inputNIC"></string>
+    <string name="inputV_type"> </string>
+    <string name="inputV_No"></string>
+
+
+</resources>
